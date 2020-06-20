@@ -1,4 +1,4 @@
-# llSPS-INT-2322-Smart-Agriculture-system-based-on-IoT
+# Smart Agriculture system based on IoT
 Smart Agriculture system based on IoT
 1) Create a two seperate Device for IBM Iot in and IBM Iot out
 2) Run the Node-Red locally for easy installation of Add on
